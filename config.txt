@@ -1,4 +1,4 @@
-﻿token=NTkzNDQyNzY5NjU0MTIwNTAz.XROFJg.QuaSCNZ1nf659mq8BKdvH9N2-xk 
+﻿token=NTkzNDU1MjQ2OTY2MjU5NzIy.XROSDA.-FGCKHlaLt08ZdlhNoC0v2eTdDE 
 owner=313981543653834755 
 prefix= !
 game= !thelp
